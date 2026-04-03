@@ -8,7 +8,6 @@ This project focuses on building an interactive Power BI dashboard to analyze la
 
 
 • Data cleaning and transformation using Power Query Editor
-
 • Data modeling using a Star Schema for optimized performance
 
 • Interactive dashboards with dynamic filters and slicers
