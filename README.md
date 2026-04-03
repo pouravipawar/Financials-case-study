@@ -6,10 +6,15 @@ This project focuses on building an interactive Power BI dashboard to analyze la
 
 🔹 Key Features
 
+
 • Data cleaning and transformation using Power Query Editor
+
 • Data modeling using a Star Schema for optimized performance
+
 • Interactive dashboards with dynamic filters and slicers
+
 • Advanced visualizations for clear and intuitive data representation
+
 • Focus on user-friendly design and effective storytelling through data
 
 🔹 Project Approach
