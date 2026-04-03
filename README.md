@@ -1,13 +1,11 @@
 # 📊 Power BI Dashboard Project
 
-
-
 🔹 Overview
 
 This project focuses on building an interactive Power BI dashboard to analyze large and complex datasets and generate actionable business insights. The dashboard is designed to provide a clear, user-friendly view of key metrics and trends.
 
-🔹 Key Features
 
+🔹 Key Features
 
 • Data cleaning and transformation using Power Query Editor
 
@@ -18,8 +16,6 @@ This project focuses on building an interactive Power BI dashboard to analyze la
 • Advanced visualizations for clear and intuitive data representation
 
 • Focus on user-friendly design and effective storytelling through data
-
-
 
 
 🔹 Project Approach
@@ -33,3 +29,6 @@ This project focuses on building an interactive Power BI dashboard to analyze la
 • Focused on delivering insights in a visually appealing and easy-to-understand format
 
 
+🔹 Dashboard Preview
+
+<img width="1271" height="715" alt="Dashboard" src="https://github.com/user-attachments/assets/8431e11a-e6f3-471a-90d2-a3af47281035" />
