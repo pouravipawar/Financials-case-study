@@ -21,4 +21,5 @@ This project focuses on building an interactive Power BI dashboard to analyze la
 
 ## 🔹 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/your-image-name.png)
+<img width="1257" height="709" alt="Dashboard" src="https://github.com/user-attachments/assets/8d5dda4e-8c0f-494c-b491-c03aad387915" />
+
